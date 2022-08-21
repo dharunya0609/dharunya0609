@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dharunya R</h1>
 <h3 align="center">A passionate frontend developer from India !</h3>
 
-<p align="left"> 
-  
-  <center><img src="[https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif](https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif)" alt="dharunya0609" />
- </center></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dharunya0609&label=Profile%20views&color=0e75b6&style=flat" alt="dharunya0609" /> </p>
 
-<img src="https://tenor.com/view/programmer-gif-19019116" height="400px" width="400px">
 - 🔭 I’m currently working on **AWS Project**
 
 - 🌱 I’m currently learning **React JS**
+
+- 👯 I’m looking to collaborate on **more Project and find new team exposure!**
 
 - 💬 Ask me about **Any Technical questions !**
 
@@ -17,8 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dharunya r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharunya r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dharunya-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dharunya-r" height="30" width="40" /></a>
 <a href="https://instagram.com/chittu_dharun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chittu_dharun" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dharunya_06" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dharunya_06" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dharunya_r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dharunya_r" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
