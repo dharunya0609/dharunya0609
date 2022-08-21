@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dharunya R</h1>
 <h3 align="center">A passionate frontend developer from India !</h3>
 
+<img src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharunya0609&label=Profile%20views&color=0e75b6&style=flat" alt="dharunya0609" /> </p>
 
 - 🔭 I’m currently working on **AWS Project**
